@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm David 👋
+**Cloud Operations Engineer** building production-grade AWS infrastructure with Terraform.
 
-<!--
-**Victor-David-Medina/Victor-David-Medina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 What I'm Working On
+- Multi-AZ VPC architectures with Terraform
+- Auto Scaling + CloudWatch monitoring
+- CI/CD pipelines with GitHub Actions
+- Operational documentation (runbooks, ADRs)
 
-Here are some ideas to get you started:
+## 🎯 Featured Project
+**[AWS Terraform Portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)** — Production-style VPC with:
+- Public/private subnet segmentation across 2 AZs
+- Auto Scaling Groups with CPU-based scaling
+- GuardDuty threat detection
+- S3 remote state + DynamoDB locking
+- GitHub Actions CI (fmt → validate → tfsec → plan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- AWS Cloud Practitioner (CLF-C02) — Jan 2026
+- HashiCorp Terraform Associate (004) — Feb 2026
+
+## 💼 Background
+8+ years in enterprise operations — including a 1,000+ user system deployment at ezCater. QA engineering experience with systematic debugging and Jira workflows. USMC veteran.
+
+## 📫 Let's Connect
+- **LinkedIn:** [victor-david-medina](https://linkedin.com/in/victor-david-medina)
+- **Email:** v.davidmedina@gmail.com
+- **Location:** Boston, MA (Open to Remote
