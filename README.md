@@ -1,28 +1,55 @@
-# Hey, I'm David 👋
-**Cloud Operations Engineer** building production-grade AWS infrastructure with Terraform.
+# Hey, I'm Victor David Medina (I go by David) 👋
+
+**Cloud Operations Engineer** building production‑grade AWS infrastructure with Terraform.
+
+Enterprise‑scale proof: led an Expensify deployment for **1,000+ users**, cutting reconciliation cycle time by **~90%** (1–2 days → 1–2 hours).
+
+---
 
 ## 🔧 What I'm Working On
-- Multi-AZ VPC architectures with Terraform
-- Auto Scaling + CloudWatch monitoring
-- CI/CD pipelines with GitHub Actions
-- Operational documentation (runbooks, ADRs)
 
-## 🎯 Featured Project
-**[AWS Terraform Portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)** — Production-style VPC with:
-- Public/private subnet segmentation across 2 AZs
-- Auto Scaling Groups with CPU-based scaling
-- GuardDuty threat detection
-- S3 remote state + DynamoDB locking
-- GitHub Actions CI (fmt → validate → tfsec → plan)
+- **Multi‑AZ VPC architectures** with Terraform (public/private subnets, NAT, route tables, least‑privilege security groups)
+- **Auto Scaling** with CloudWatch‑driven policies and health checks
+- **CI/CD for IaC** using GitHub Actions (fmt → validate → tfsec → plan)
+- **Operational documentation**: runbooks, Architecture Decision Records (ADRs), and cost awareness
+
+---
+
+## 🎯 Start Here (Featured Project)
+
+**👉 [AWS Terraform Portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)**
+
+Production‑style AWS VPC stack built as a Cloud Operations portfolio project:
+
+- Multi‑AZ VPC with public/private subnet segmentation across 2 AZs
+- Auto Scaling Group (2–6 instances) with CPU‑based scaling policies
+- NAT Gateway for controlled egress from private subnets
+- GuardDuty threat detection for continuous security monitoring
+- S3 remote state + DynamoDB locking for safe team/CI usage
+- GitHub Actions CI (terraform fmt → validate → tfsec → plan)
+- Runbook + ADRs + cost table to demonstrate Day‑2 operations thinking
+
+---
 
 ## 📜 Certifications
-- AWS Cloud Practitioner (CLF-C02) — Jan 2026
-- HashiCorp Terraform Associate (004) — Feb 2026
+
+- **AWS Cloud Practitioner (CLF‑C02)** — Jan 2026  
+- **HashiCorp Terraform Associate (004)** — Feb 2026  
+
+---
 
 ## 💼 Background
-8+ years in enterprise operations — including a 1,000+ user system deployment at ezCater. QA engineering experience with systematic debugging and Jira workflows. USMC veteran.
+
+- **8+ years in enterprise operations** (Amwell, Blue Matter, ezCater) — process automation, system deployments, and audit‑ready controls  
+- **1,000+ user SaaS rollout** at ezCater (Expensify) — requirements, workflows, UAT, communications  
+- **QA engineering experience** — Jira/TestRail workflows, regression discipline, client‑server debugging with Chrome DevTools & Postman  
+- **USMC veteran** — operational discipline, documentation rigor, and calm incident‑response mindset  
+
+---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [victor-david-medina](https://linkedin.com/in/victor-david-medina)
-- **Email:** v.davidmedina@gmail.com
-- **Location:** Boston, MA (Open to Remote
+
+- **LinkedIn:** [linkedin.com/in/victor-david-medina](https://linkedin.com/in/victor-david-medina)
+- **GitHub Portfolio:** [aws-terraform-portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)
+- **Email:** [v.davidmedina@gmail.com](mailto:v.davidmedina@gmail.com)
+- **Location:** Boston, MA (Open to Remote)
