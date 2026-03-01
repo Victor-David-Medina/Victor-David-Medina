@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Cloud+Operations+Engineer;Building+production-grade+AWS+infrastructure;Terraform+%7C+GitHub+Actions+%7C+IaC+CI%2FCD;8%2B+years+enterprise+ops+%E2%86%92+Cloud+native;Next%3A+Docker+%7C+ECS+Fargate+%7C+Container-native+Cloud+Ops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Cloud+Operations+Engineer;Building+production-grade+AWS+infrastructure;Terraform+%7C+GitHub+Actions+%7C+IaC+CI%2FCD;8%2B+years+enterprise+ops+%E2%86%92+Cloud+native" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,15 +34,6 @@ I'm David — a **Cloud Operations Engineer** building production-grade AWS infr
   <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
-<p align="center">
-  <strong>Currently Learning:</strong>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20ECS-Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Amazon%20ECR-Image%20Registry-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
-
 ---
 
 ## What I'm Building
@@ -51,24 +42,6 @@ I'm David — a **Cloud Operations Engineer** building production-grade AWS infr
 - **Auto Scaling Groups** with CPU-based target tracking policies and CloudWatch monitoring
 - **CI/CD pipeline for IaC** using GitHub Actions: `fmt` → `validate` → `tfsec` → `plan`
 - **Operational documentation**: runbooks, Architecture Decision Records (ADRs), cost governance tables
-
----
-
-## 🚀 Coming Next — Docker + ECS Portfolio Project
-
-Extending the existing Terraform stack into a fully container-native deployment workflow:
-
-| Component | Details |
-|---|---|
-| Containerization | Dockerfile with multi-stage build for a web service |
-| Image Registry | Push to **Amazon ECR** via GitHub Actions CI |
-| Orchestration | **AWS ECS Fargate** cluster provisioned with Terraform |
-| CI/CD | Build → Push → ECS deploy pipeline in GitHub Actions |
-| Networking | VPC + Application Load Balancer + ECS service wiring |
-| IAM | Task execution roles, ECR pull permissions, least-privilege |
-| Observability | CloudWatch Container Insights + structured log groups |
-
-> This project adds the container layer on top of the existing VPC + Auto Scaling infrastructure — resulting in a full-stack cloud ops portfolio: **IaC → Containers → Orchestration → CI/CD → Observability**.
 
 ---
 
@@ -114,7 +87,6 @@ Production-style AWS VPC stack built as a Cloud Operations portfolio project. Ev
 |---|---|
 | AWS Cloud Practitioner (CLF-C02) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square) |
 | HashiCorp Terraform Associate (004) | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) |
-| Docker Certified Associate (DCA) | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) |
 
 ---
 
