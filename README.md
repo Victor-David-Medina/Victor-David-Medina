@@ -23,15 +23,15 @@ I'm David — a **Cloud Operations Engineer** building production-grade AWS infr
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Operations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Operations-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Linux-Ops-FCC624?style=flat-square&logo=linux&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Production-style AWS VPC stack built as a Cloud Operations portfolio project. Ev
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td>
@@ -77,7 +77,7 @@ Production-style AWS VPC stack built as a Cloud Operations portfolio project. Ev
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
