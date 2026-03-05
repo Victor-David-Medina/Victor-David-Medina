@@ -10,9 +10,9 @@
 
 ## Who I Am
 
-I'm David — a **Cloud Operations Engineer** building production-grade AWS infrastructure with Terraform. I bring 8+ years of enterprise operations experience into cloud-native environments, with a focus on reliability, documentation, and cost control.
+I'm David, a **Cloud Operations Engineer** building production-grade AWS infrastructure with Terraform. I bring 8+ years of enterprise operations experience into cloud-native environments, with a focus on reliability, documentation, and cost control.
 
-> **Enterprise-scale proof:** Led a 1,000+ user Expensify SaaS rollout at ezCater that cut reconciliation cycle time by **~90%** — from 1–2 days down to 1–2 hours. Operational discipline at scale is already in my toolkit.
+> **Enterprise-scale proof:** Led a 1,000+ user Expensify SaaS rollout at ezCater that cut reconciliation cycle time by **~90%** - from 1–2 days down to 1–2 hours. Operational discipline at scale is already in my toolkit.
 
 ---
 
