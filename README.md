@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=120&section=header&text=Victor%20David%20Medina&fontSize=36&fontColor=ffffff&fontAlignY=60&desc=Cloud%20Operations%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20Boston%2C%20MA&descAlignY=80&descSize=14&descColor=a0b4c8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=120&section=header&text=Victor%20David%20Medina&fontSize=36&fontColor=ffffff&fontAlignY=60&desc=Founder%2C%20RelayLaunch%20%E2%80%A2%20Cloud%20%26%20Platform%20Engineer%20%E2%80%A2%20AWS%20%C2%B7%20Terraform%20%C2%B7%20Multi-Agent%20AI%20Infra&descAlignY=80&descSize=14&descColor=a0b4c8" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud+Operations+Engineer+%7C+Infrastructure+as+Code;Production-grade+AWS+%E2%80%94+VPC%2C+IAM%2C+EC2%2C+CloudWatch%2C+GuardDuty;Terraform+%7C+GitHub+Actions+%7C+CI%2FCD+Pipelines;8%2B+years+enterprise+ops+%E2%86%92+Cloud-native+infrastructure;USMC+veteran+%E2%80%94+mission-driven+reliability+%26+incident+response" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Founder+%26+Sole+Infra+Engineer+at+RelayLaunch;Shipped+Relay%E2%96%B6Deck+%E2%80%94+multi-agent+AI+SaaS+in+production+beta;Production+AWS+%2B+Terraform+%2B+GitHub+Actions+CI%2FCD;8%2B+years+enterprise+ops+%E2%86%92+cloud-native+infrastructure;USMC+veteran+%E2%80%94+mission-driven+reliability+%26+incident+response" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,9 @@
   &nbsp;
   <a href="mailto:v.davidmedina@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.relaylaunch.com"><img src="https://img.shields.io/badge/RelayLaunch-Consultancy-2d4a7a?style=flat-square&logo=rocket&logoColor=white" /></a>
+  <a href="https://www.relaylaunch.com"><img src="https://img.shields.io/badge/RelayLaunch-AI%20Infrastructure-2d4a7a?style=flat-square&logo=rocket&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://deck.relaylaunch.com"><img src="https://img.shields.io/badge/Relay%E2%96%B6Deck-Live%20Console-58A6FF?style=flat-square&logo=vercel&logoColor=white" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Boston%2C%20MA-blue?style=flat-square" />
   &nbsp;
@@ -22,9 +24,9 @@
 
 ## About Me
 
-I'm David — a **Cloud Operations Engineer** who builds production-grade AWS infrastructure with Terraform and ships it through automated CI/CD pipelines. I bring **8+ years of enterprise operations** into cloud-native environments, with a sharp focus on reliability, security, observability, and cost governance.
+I'm David — **Founder of [RelayLaunch](https://www.relaylaunch.com)** and the **sole infrastructure engineer** behind **[Relay▶Deck](https://deck.relaylaunch.com)**, a multi-agent AI SaaS platform now in production beta. I designed, built, and operate the underlying AWS infrastructure end-to-end: Terraform-managed VPC and IAM, automated CI/CD, observability and audit logging, and cost governance for paying customers.
 
-I also run **[RelayLaunch](https://www.relaylaunch.com)**, a veteran-owned digital infrastructure consultancy where I architect, deploy, and manage production systems for business clients — real infrastructure, real uptime requirements, real accountability.
+I bring **8+ years of enterprise operations** (Amwell, Blue Matter, ezCater) into cloud-native infrastructure work, with a sharp focus on reliability, security, observability, and cost control. USMC veteran — mission-driven discipline applied to on-call and incident response.
 
 > **Impact at scale:** Led a **1,000+ user Expensify SaaS rollout** at ezCater — requirements gathering, workflow design, UAT, and stakeholder communications — cutting reconciliation cycle time by **~90%** (from 1–2 days to 1–2 hours).
 
@@ -41,11 +43,13 @@ I also run **[RelayLaunch](https://www.relaylaunch.com)**, a veteran-owned digit
 | **Cloud Platform** | AWS — VPC, EC2, IAM, S3, CloudWatch, GuardDuty, Auto Scaling, NAT Gateway, Budgets |
 | **Infrastructure as Code** | Terraform (modules, state management, workspaces), HCL, `tfsec` static analysis |
 | **CI/CD & Automation** | GitHub Actions pipelines, Bash scripting, automated linting/validation/security scanning |
-| **Observability & Monitoring** | CloudWatch alarms & dashboards, log aggregation, metric-based scaling policies |
-| **Security & Compliance** | GuardDuty threat detection, least-privilege IAM, security group hardening, audit-ready controls |
+| **AI / Platform Infrastructure** | Multi-agent orchestration, semantic / vector search at 100M+ scale, LLM API integration, prompt and token-cost governance |
+| **Application Platform** | Auth, billing, document ingestion pipelines, audit logging with cryptographic provenance |
+| **Observability & Monitoring** | CloudWatch alarms & dashboards, log aggregation, immutable audit ledgers, metric-based scaling policies |
+| **Security & Compliance** | GuardDuty threat detection, least-privilege IAM, secrets handling, security group hardening, audit-ready controls |
 | **Networking** | VPC design, subnet segmentation (public/private), route tables, NAT, DNS, CIDR planning |
-| **Cost Optimization** | AWS Budgets, cost governance documentation, right-sizing, resource tagging strategies |
-| **Operations & Reliability** | Runbooks, incident response procedures, Architecture Decision Records (ADRs), change management |
+| **Cost Optimization** | AWS Budgets, usage-tier modeling, right-sizing, resource tagging, LLM token budgeting |
+| **Operations & Reliability** | Runbooks, incident response, on-call ownership, Architecture Decision Records (ADRs), change management |
 | **Collaboration** | Jira, TestRail, Postman, Chrome DevTools, cross-functional stakeholder communication |
 
 <p align="center">
@@ -64,11 +68,26 @@ I also run **[RelayLaunch](https://www.relaylaunch.com)**, a veteran-owned digit
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### [Relay▶Deck — Production AI SaaS](https://deck.relaylaunch.com)
+
+Multi-agent AI platform now in production beta. *"Due Diligence in Hours, Not Weeks."* Multiple AI agents debate a question, document, or plan adversarially and deliver a verdict with preserved dissent. I designed, built, and operate every layer of the underlying infrastructure.
+
+| Layer | Implementation Details |
+|---|---|
+| **Architecture** | Multi-agent council orchestration — adversarial debate pipeline with dissent preservation and confidence scoring |
+| **Data Layer** | Live semantic expansion across **100M+ data points**, vector search infrastructure, document ingestion pipelines |
+| **AWS Infrastructure** | VPC segmentation, least-privilege IAM, compute and networking patterns ported from my Terraform reference repo |
+| **Observability** | Immutable audit ledger of every agent finding, confidence-score telemetry, structured logging |
+| **Security** | Cryptographic source provenance for every finding, secrets handling, hardened IAM boundaries |
+| **CI/CD Pipeline** | GitHub Actions shipping to production beta — automated validation, security scanning, deploy |
+| **Cost Governance** | Usage-tier pricing (Free / Pro $299 / Team $999) backed by token budgeting and per-tenant cost controls |
+| **Status** | **In Beta — Early Access Open.** Real users, real uptime expectations, on-call ownership. |
 
 ### [AWS Terraform Portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)
 
-Production-style AWS infrastructure built with Terraform — designed to demonstrate the same patterns used in enterprise cloud operations environments. Every component follows AWS Well-Architected Framework principles.
+The reference patterns that underpin Relay▶Deck's production infrastructure — published as a standalone, reviewable repo. Every component follows AWS Well-Architected Framework principles.
 
 | Component | Implementation Details |
 |---|---|
@@ -85,13 +104,14 @@ Production-style AWS infrastructure built with Terraform — designed to demonst
 
 ## Professional Experience
 
-### Founder & Infrastructure Consultant — [RelayLaunch](https://www.relaylaunch.com)
-*Veteran-owned digital infrastructure consultancy*
+### Founder & Infrastructure Engineer — [RelayLaunch](https://www.relaylaunch.com)
+*Veteran-owned AI infrastructure company. Builders of Relay▶Deck.*
 
-- Architect and deploy production web infrastructure for business clients, managing real uptime and reliability requirements
-- Conduct infrastructure audits and build technical roadmaps for system consolidation and modernization
-- Implement automation workflows, monitoring, and ongoing operational support
-- Apply Fortune 500 engineering discipline to infrastructure delivery with fixed-scope, transparent engagements
+- Shipped **Relay▶Deck** — a multi-agent AI SaaS platform — to production beta with paying customers
+- Designed and built the AWS infrastructure end-to-end: VPC, IAM, compute, observability, CI/CD, secrets, cost governance
+- Own production reliability, on-call, incident response, and cost controls for live customer workloads
+- Built the data layer powering semantic search across 100M+ data points and the immutable audit ledger backing every agent finding
+- Previously delivered infrastructure audits, modernization roadmaps, and automation engagements for business clients before pivoting to product
 
 ### Enterprise Operations — Amwell, Blue Matter, ezCater
 *8+ years spanning system deployments, process automation, and operational controls*
@@ -117,12 +137,12 @@ Production-style AWS infrastructure built with Terraform — designed to demonst
 
 ---
 
-## Currently Exploring
+## Currently Working On
 
-- **Containerization & Orchestration** — Docker, ECS/EKS fundamentals
-- **Advanced Monitoring** — CloudWatch Logs Insights, metric filters, composite alarms
-- **Python for Cloud Ops** — Boto3 scripting, Lambda automation, infrastructure tooling
-- **Networking Deep Dive** — VPN, Transit Gateway, Route 53 DNS management
+- **Multi-agent orchestration patterns** — agent observability, debate routing, dissent capture
+- **Vector / semantic search infrastructure** — scaling retrieval performance at 100M+ data points
+- **Event-driven AWS architectures** — Lambda, queues, and async pipelines for AI workloads
+- **LLM cost optimization** — token budgeting, response caching, model routing across price tiers
 
 ---
 
@@ -148,8 +168,8 @@ Production-style AWS infrastructure built with Terraform — designed to demonst
 ---
 
 <p align="center">
-  <strong>Open to Cloud Operations, DevOps, Infrastructure, and SRE roles — remote or hybrid.</strong><br/>
-  <em>Let's build reliable infrastructure together.</em>
+  <strong>Founder shipping production AI infrastructure — open to Cloud Engineer, DevOps, Platform / Infrastructure Engineer, and SRE roles.</strong><br/>
+  <em>Remote or hybrid. Let's build reliable infrastructure together.</em>
 </p>
 
 <p align="center">
@@ -163,6 +183,10 @@ Production-style AWS infrastructure built with Terraform — designed to demonst
   &nbsp;
   <a href="https://www.relaylaunch.com">
     <img src="https://img.shields.io/badge/RelayLaunch-relaylaunch.com-2d4a7a?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://deck.relaylaunch.com">
+    <img src="https://img.shields.io/badge/Relay%E2%96%B6Deck-deck.relaylaunch.com-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Victor-David-Medina/aws-terraform-portfolio">
