@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=120&section=header&text=Victor%20David%20Medina&fontSize=36&fontColor=ffffff&fontAlignY=60&desc=Founder%2C%20RelayLaunch%20%C2%B7%20Cloud%20%26%20Platform%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform%20%C2%B7%20Multi-Agent%20AI%20Infra&descAlignY=80&descSize=14&descColor=a0b4c8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=130&section=header&text=Victor%20David%20Medina&fontSize=38&fontColor=ffffff&fontAlignY=58&desc=Founder%2C%20RelayLaunch%20%C2%B7%20Cloud%20%26%20Platform%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform&descAlignY=82&descSize=14&descColor=a0b4c8" />
 </p>
 
 <p align="center">
@@ -132,7 +132,17 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Victor-David-Medina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Victor-David-Medina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### Building at [Relay-Launch](https://github.com/Relay-Launch)
+
+Most Relay▶Deck infrastructure lives in private repos. The public face of the org is below.
+
+<p align="center">
+  <a href="https://github.com/Relay-Launch/councilverse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relay-Launch&repo=councilverse&theme=tokyonight&hide_border=true" alt="Relay-Launch/councilverse" />
+  </a>
 </p>
 
 ---
