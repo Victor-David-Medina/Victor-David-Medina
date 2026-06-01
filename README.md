@@ -1,176 +1,78 @@
+<!--
+  PERSONAL GITHUB PROFILE README — github.com/Victor-David-Medina/Victor-David-Medina
+  Reliable by design: no capsule-render (flaky). shields.io + skillicons + readme-stats only.
+  Honesty: pre-revenue; solo; RelayLaunch 2026; use_lockfile (not DynamoDB); 15 cloud models/7 providers; 40+ migrations; Orchestra (contract); ezCater Staff Accountant.
+-->
+
+<h1 align="center">Victor David Medina</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=130&section=header&text=Victor%20David%20Medina&fontSize=38&fontColor=ffffff&fontAlignY=58&desc=Founder%20%26%20Lead%20AI%2FPlatform%20Engineer%20%C2%B7%20RelayLaunch%20%C2%B7%20AI%20%2B%20AWS%20%2B%20QA%20Automation&descAlignY=82&descSize=14&descColor=a0b4c8" />
+  <strong>AI / Applied AI Engineer</strong> &nbsp;·&nbsp; <strong>Forward-Deployed / Solutions Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Production+AWS+%2B+Terraform+%2B+GitHub+Actions+CI%2FCD;Multi-agent+AI+SaaS.+Vector+search+at+scale.+Sole+infra+engineer." alt="Typing SVG" />
+  <em>I build AI systems that propose actions and wait for owner approval before executing — not chatbots that talk about it.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/victor-david-medina"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:v.davidmedina@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2d4a7a?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.relaylaunch.com"><img src="https://img.shields.io/badge/RelayLaunch-AI%20Infrastructure-2d4a7a?style=flat-square&logo=rocket&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://deck.relaylaunch.com"><img src="https://img.shields.io/badge/Relay%E2%96%B6Deck-Live%20Console-58A6FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Boston%2C%20MA-Remote%20%2F%20Hybrid-2d4a7a?style=flat-square" />
-</p>
-
----
-
-## Featured Projects
-
-### [Relay▶Deck](https://deck.relaylaunch.com) · Production AI SaaS
-
-Multi-agent platform. Agents debate a document adversarially. The platform returns a verdict and preserves every dissent.
-
-- **Vector search at scale.** Semantic retrieval (pgvector / Qdrant) powers every council debate.
-- **Production beta (pre-revenue), operated solo.** AWS stack: VPC, IAM, Terraform, GitHub Actions CI/CD, CloudWatch, cryptographically signed audit trail, per-tenant cost caps.
-- **Full stack, one engineer.** From subnet CIDRs to billing to on-call rotation.
-
-### [AWS Terraform Portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)
-
-Reference Terraform modules running Relay▶Deck. Public repo. Built to AWS Well-Architected.
-
-| Component | Implementation |
-|---|---|
-| **Networking** | Multi-AZ VPC, public/private subnet segmentation across 2 AZs, CIDR planning |
-| **Compute** | Auto Scaling Group (2–6 instances), CPU-based target tracking |
-| **Egress** | NAT Gateway for controlled outbound from private subnets |
-| **Security** | GuardDuty, least-privilege IAM, security group hardening |
-| **Observability** | CloudWatch alarms for scaling events, utilization, cost anomalies |
-| **CI/CD** | GitHub Actions: `terraform fmt` → `validate` → `tfsec` → `plan` on every PR |
-| **Day-2 Ops** | Incident runbook, ADRs, cost governance tables |
-
----
-
-## About
-
-I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI SaaS in production beta (pre-revenue). VPC, IAM, Terraform, CI/CD, observability, signed audit trail, per-tenant cost caps. One engineer.
-
-8+ years of enterprise ops at Amwell, Blue Matter, and ezCater (audit-grade documentation rigor from regulated SaaS environments). USMC veteran. I instrument systems, patch them, and carry the pager.
-
-> **ezCater:** led a 1,000+ user Expensify rollout (requirements, UAT, stakeholder comms). Reconciliation cycle dropped from 1–2 days to 1–2 hours.
-
----
-
-## Core Competencies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,githubactions,linux,bash,git,docker,python,vscode&theme=dark&perline=9" alt="Tech stack icons" />
-</p>
-
-| Domain | Stack |
-|---|---|
-| **Cloud Platform** | AWS: VPC, EC2, IAM, S3, CloudWatch, GuardDuty, Auto Scaling, NAT, Route 53, Budgets |
-| **Infrastructure as Code** | Terraform (modules, state, workspaces), HCL, `tfsec` static analysis |
-| **CI/CD & Automation** | GitHub Actions, Bash, Python (Boto3), automated lint / validate / scan |
-| **AI / Platform Infra** | Multi-agent orchestration, vector search at scale, LLM API integration, token-cost governance |
-| **Observability & Reliability** | CloudWatch alarms and dashboards, log aggregation, signed audit trails, runbooks, on-call, ADRs |
-| **Security & Compliance** | Least-privilege IAM, GuardDuty, secrets handling, security group hardening, audit-ready controls |
-
----
-
-## Experience
-
-### Founder & Lead AI/Platform Engineer · [RelayLaunch](https://www.relaylaunch.com)
-*Veteran-owned AI infrastructure company. Ships Relay▶Deck.*
-
-- Shipped Relay▶Deck (multi-agent AI SaaS) to production beta (pre-revenue).
-- Wired the AWS stack solo: VPC, IAM, compute, CI/CD, secrets, observability, cost governance.
-- Runs on-call. Triages incidents. Caps spend per tenant.
-- Built the data layer behind the vector search and the signed audit trail under every agent finding.
-- Before the product, did early infrastructure and automation work — audits, modernization roadmaps — plus an early, unpaid pilot now running on Relay▶Deck.
-
-### Software QA Engineer (Contract) · Orchestra.so · Remote · Mar 2024 – Mar 2025
-
-- Triaged 50+ defects and cut fix turnaround ~30% via precise reproduction and client/server failure isolation (Postman, Chrome DevTools); shipped 3+ releases with zero critical bugs reaching production.
-
-### Enterprise Operations · Amwell, Blue Matter, ezCater
-*8+ years across system deployments, process automation, and operational controls.*
-
-- **ezCater:** led 1,000+ user Expensify rollout. Cut reconciliation cycle by ~90%.
-- **QA & process:** owned regression coverage and audit-ready documentation in regulated SaaS environments.
-- **Operations:** owned process automation, deployment coordination, and audit-ready documentation in regulated environments.
-
-### United States Marine Corps
-
-- Documentation rigor and incident triage under pressure. Same skills now run my on-call.
-
----
-
-## Certifications
-
-| Certification | Status | Target |
-|---|---|---|
-| AWS Cloud Practitioner (CLF-C02) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-2d4a7a?style=flat-square) | 2026 |
-| HashiCorp Terraform Associate (004) | ![Planned](https://img.shields.io/badge/Status-Planned-58A6FF?style=flat-square) | 2026 |
-| AWS Solutions Architect Associate (SAA-C03) | ![Planned](https://img.shields.io/badge/Status-Planned-2d4a7a?style=flat-square) | 2026–2027 |
-
----
-
-## Currently Working On
-
-- Multi-agent orchestration patterns. Agent observability. Debate routing. Dissent capture.
-- Vector / semantic search at scale. Retrieval performance tuning.
-- Event-driven AWS: Lambda, queues, async pipelines for AI workloads.
-- LLM cost optimization: token budgeting, response caching, model routing across price tiers.
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Victor-David-Medina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-David-Medina&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=Multi-agent+orchestration+%C2%B7+LLM+gateways+%C2%B7+RAG+%C2%B7+evals;Cloudflare+Workers+%C2%B7+Supabase+%C2%B7+Python+%C2%B7+TypeScript;USMC+veteran+%E2%86%92+operations+%E2%86%92+QA+%E2%86%92+building+production+AI" alt="What I do" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Victor-David-Medina&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### Building at [Relay-Launch](https://github.com/Relay-Launch)
-
-Most Relay▶Deck infrastructure lives in private repos. The public face of the org is below.
-
-<p align="center">
-  <a href="https://github.com/Relay-Launch/councilverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Relay-Launch&repo=councilverse&theme=tokyonight&hide_border=true" alt="Relay-Launch/councilverse" />
-  </a>
+  <a href="https://www.linkedin.com/in/victor-david-medina"><img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Contract_or_Full--time-2EA043?style=for-the-badge" alt="Open to Work" /></a>
+  <a href="https://www.linkedin.com/in/victor-david-medina"><img src="https://img.shields.io/badge/LinkedIn-victor--david--medina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:v.davidmedina@gmail.com"><img src="https://img.shields.io/badge/Email-v.davidmedina-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Watertown,_MA-Remote_(US)_%2B_Boston-30363D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
+
+> 🟢 **Open to** AI / Applied AI Engineer · Forward-Deployed / Solutions Engineer · QA Automation · Cloud Support — **remote (US) or Boston, contract or full-time, available now.**
+
+## 🧠 What I build
+
+- **AI / LLM** — multi-agent orchestration · LiteLLM gateway (15 cloud models / 7 providers) · RAG (Qdrant) · **LLM evaluation harness** (golden datasets, regression detection, grounding/faithfulness) wired into CI · LLM observability (Langfuse) · progressive-autonomy **owner-approval gates**
+- **Edge + backend** — Cloudflare Workers (D1, KV, R2, Queues) · Supabase (PostgreSQL + Row-Level Security) · Hono
+- **Full-stack** — Next.js 16 · React 19 · Astro 6 · TypeScript · Python
+- **Cloud / DevOps** *(growing, hands-on)* — AWS (EC2, S3, IAM, VPC, GuardDuty) · Terraform (`use_lockfile`, tfsec in CI) · Docker · GitHub Actions
+
+## ⚙️ The harness I built
+
+Solo, over the last year, I built a **multi-tenant AI operations platform** *(pre-revenue)* — and the multi-AI dev system that builds it:
+
+- **Execution engine** on Cloudflare Workers — per-tenant D1 / KV / R2 / Queues (40+ migrations), Supabase RLS isolation
+- **Model gateway** — LiteLLM routing 15 cloud models across 7 providers behind one API, with an **evaluation harness** gating every change in CI
+- **Owner-approval autonomy** — a 5-level progressive-autonomy model; the AI proposes, the owner approves *(auto-graduation specced next)*
+- **🤖 Four AI agents, one workflow** — I orchestrate **Claude Code + GitHub Copilot + Gemini CLI + Codex** in synchronized sprints with shared handoffs and a trust-but-verify step. My dev workflow *is* a working demo of running AI at scale.
+
+## 🪖 Background
+
+U.S. Marine Corps (2013–2017) → a decade across operations, accounting, and QA → building production AI. Reliability-first: I design failure modes, escalation paths, and incident response in from the start — I authored an AI-specific incident-response playbook with a severity-based escalation matrix.
+
+## 📂 Public work
+
+- **[`aws-terraform-portfolio`](https://github.com/Victor-David-Medina/aws-terraform-portfolio)** — multi-AZ VPC, GuardDuty, tfsec-in-CI, `use_lockfile` state locking, 5 ADRs + operational runbook
+- **CouncilVerse** — open-source multi-agent council engine ([npm](https://www.npmjs.com/org/relaylaunch))
+
+## 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,react,nextjs,astro,cloudflare,supabase,postgres,docker,aws,terraform,githubactions,linux,bash&theme=dark&perline=8" alt="Tech stack" />
+</p>
+
+## 📜 Certifications
+
+AWS Certified Cloud Practitioner (CLF-C02) — *in progress* · HashiCorp Terraform Associate (004) — *in progress* · QA Engineering Certificate — 2024
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victor-David-Medina&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-David-Medina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+</p>
 
 <p align="center">
   <strong>Hiring for AI/Platform, Forward-Deployed/Solutions, QA Automation, or Cloud Support?</strong><br/>
-  I run production AWS for a multi-agent AI platform solo. Imagine what I do with a team.<br/>
-  <em>Remote or hybrid. Boston, MA.</em>
-</p>
-
-<p align="center">
-  <a href="mailto:v.davidmedina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-v.davidmedina%40gmail.com-2d4a7a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/victor-david-medina">
-    <img src="https://img.shields.io/badge/LinkedIn-victor--david--medina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Victor-David-Medina/aws-terraform-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-aws--terraform--portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d4a7a,100:1a1b27&height=80&section=footer" />
+  I build production AI end to end and stay in the loop until it works for real users.<br/>
+  <a href="mailto:v.davidmedina@gmail.com"><strong>v.davidmedina@gmail.com</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/victor-david-medina">LinkedIn</a> &nbsp;·&nbsp; Remote (US) + Boston
 </p>
