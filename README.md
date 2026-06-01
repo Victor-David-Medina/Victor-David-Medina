@@ -109,3 +109,12 @@ AWS Certified Cloud Practitioner (CLF-C02), *in progress* &nbsp;·&nbsp; HashiCo
   I build production AI from the model gateway to the owner-approval gate, and stay in the loop until it works for real users.<br/><br/>
   <a href="mailto:v.davidmedina@gmail.com"><strong>v.davidmedina@gmail.com</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/victor-david-medina"><strong>LinkedIn</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Victor-David-Medina/aws-terraform-portfolio"><strong>Proof repo</strong></a> &nbsp;·&nbsp; Remote (US) + Boston
 </p>
+
+---
+
+<h3 align="center">Contribution activity</h3>
+<p align="center"><sub>auto-generated twice daily by a GitHub Action (Platane/snk)</sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Victor-David-Medina/Victor-David-Medina/output/github-snake-dark.svg" alt="Animated contribution snake" />
+</p>
+
