@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=130&section=header&text=Victor%20David%20Medina&fontSize=38&fontColor=ffffff&fontAlignY=58&desc=Founder%2C%20RelayLaunch%20%C2%B7%20Cloud%20%2B%20Platform%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform&descAlignY=82&descSize=14&descColor=a0b4c8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:2d4a7a&height=130&section=header&text=Victor%20David%20Medina&fontSize=38&fontColor=ffffff&fontAlignY=58&desc=Founder%20%26%20Lead%20AI%2FPlatform%20Engineer%20%C2%B7%20RelayLaunch%20%C2%B7%20AI%20%2B%20AWS%20%2B%20QA%20Automation&descAlignY=82&descSize=14&descColor=a0b4c8" />
 </p>
 
 <p align="center">
@@ -75,20 +75,24 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 
 ## Experience
 
-### Founder & Infrastructure Engineer · [RelayLaunch](https://www.relaylaunch.com)
+### Founder & Lead AI/Platform Engineer · [RelayLaunch](https://www.relaylaunch.com)
 *Veteran-owned AI infrastructure company. Ships Relay▶Deck.*
 
 - Shipped Relay▶Deck (multi-agent AI SaaS) to production beta (pre-revenue).
 - Wired the AWS stack solo: VPC, IAM, compute, CI/CD, secrets, observability, cost governance.
 - Runs on-call. Triages incidents. Caps spend per tenant.
 - Built the data layer behind the vector search and the signed audit trail under every agent finding.
-- Previously delivered infrastructure audits, modernization roadmaps, and automation engagements for business clients before pivoting to product.
+- Before the product, did early infrastructure and automation work — audits, modernization roadmaps — plus an early, unpaid pilot now running on Relay▶Deck.
+
+### Software QA Engineer · Orchestra.so · Remote · Mar 2024 – Mar 2025
+
+- Triaged 50+ defects and cut fix turnaround ~30% via precise reproduction and client/server failure isolation (Postman, Chrome DevTools); shipped 3+ releases with zero critical bugs reaching production.
 
 ### Enterprise Operations · Amwell, Blue Matter, ezCater
 *8+ years across system deployments, process automation, and operational controls.*
 
 - **ezCater:** led 1,000+ user Expensify rollout. Cut reconciliation cycle by ~90%.
-- **QA & Reliability:** built and maintained regression suites, managed test cases in Jira and TestRail, debugged client-server issues with Postman and Chrome DevTools.
+- **QA & process:** owned regression coverage and audit-ready documentation in regulated SaaS environments.
 - **Operations:** owned process automation, deployment coordination, and audit-ready documentation in regulated environments.
 
 ### United States Marine Corps
@@ -148,7 +152,7 @@ Most Relay▶Deck infrastructure lives in private repos. The public face of the 
 ---
 
 <p align="center">
-  <strong>Hiring for Cloud, DevOps, Platform, or SRE?</strong><br/>
+  <strong>Hiring for AI/Platform, Forward-Deployed/Solutions, QA Automation, or Cloud Support?</strong><br/>
   I run production AWS for a multi-agent AI platform solo. Imagine what I do with a team.<br/>
   <em>Remote or hybrid. Boston, MA.</em>
 </p>
