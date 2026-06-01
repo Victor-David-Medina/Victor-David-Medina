@@ -11,6 +11,10 @@
 <h1 align="center">Victor David Medina</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Victor-David-Medina/Victor-David-Medina/main/ai-harness-banner.svg" alt="Victor David Medina, applied AI engineer building multi-agent AI operations systems" width="100%" />
+</p>
+
+<p align="center">
   <strong>AI / Applied-AI Engineer</strong> &nbsp;·&nbsp; <strong>Forward-Deployed / Solutions Engineer</strong>
 </p>
 
@@ -117,4 +121,3 @@ AWS Certified Cloud Practitioner (CLF-C02), *in progress* &nbsp;·&nbsp; HashiCo
 <p align="center">
   <img src="https://raw.githubusercontent.com/Victor-David-Medina/Victor-David-Medina/output/github-snake-dark.svg" alt="Animated contribution snake" />
 </p>
-
