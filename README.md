@@ -1,5 +1,5 @@
 <!--
-  PERSONAL GITHUB PROFILE README — github.com/Victor-David-Medina/Victor-David-Medina
+  PERSONAL GITHUB PROFILE README: github.com/Victor-David-Medina/Victor-David-Medina
   Reliable by design: NO capsule-render (flaky). shields.io + skillicons + readme-typing-svg + readme-stats only.
   Palette: navy / tokyonight (#58A6FF accents) for cohesion.
   Honesty (traces to LOCKED): pre-revenue; SOLO (no "we"); RelayLaunch 2026; use_lockfile (NOT DynamoDB);
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <em>I build AI systems that propose actions and wait for owner approval before they execute —<br/>not chatbots that talk about it. And I orchestrate four AI coding agents to ship them.</em>
+  <em>I build AI systems that propose actions and wait for owner approval before they execute,<br/>not chatbots that talk about it. And I orchestrate four AI coding agents to ship them.</em>
 </p>
 
 <p align="center">
@@ -32,18 +32,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Watertown,_MA-30363D?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Remote_(US)_%2B_Boston-30363D?style=flat-square" alt="Remote US + Boston" />
-  <img src="https://img.shields.io/badge/USMC_Veteran-2013–2017-30363D?style=flat-square" alt="USMC veteran" />
+  <img src="https://img.shields.io/badge/USMC_Veteran-2013-2017-30363D?style=flat-square" alt="USMC veteran" />
   <img src="https://img.shields.io/badge/Available-Now-2EA043?style=flat-square" alt="Available now" />
 </p>
 
 ---
 
-> 🟢 **Open to** AI / Applied-AI Engineer · Forward-Deployed / Solutions Engineer — *primary.* QA Automation — *bridge.* Cloud Support — *growing, hands-on.*
+> 🟢 **Open to** AI / Applied-AI Engineer · Forward-Deployed / Solutions Engineer, *primary.* QA Automation, *bridge.* Cloud Support, *growing, hands-on.*
 > **Remote (US) or Boston · contract or full-time · available now.**
 
 ## 🤖 The differentiator: four AI agents, one orchestrated workflow
 
-I don't just *use* AI tools — I run a **multi-AI development harness** where **Claude Code + GitHub Copilot + Gemini CLI + Codex** work the same sprint in parallel, hand off through shared docs, and pass a **trust-but-verify** gate before anything merges. My day-to-day dev process *is* a working demo of orchestrating AI in production.
+I don't just *use* AI tools. I run a **multi-AI development harness** where **Claude Code + GitHub Copilot + Gemini CLI + Codex** work the same sprint in parallel, hand off through shared docs, and pass a **trust-but-verify** gate before anything merges. My day-to-day dev process *is* a working demo of orchestrating AI in production.
 
 ```text
                 ┌──────────────────────────────────────────────────────┐
@@ -56,27 +56,27 @@ I don't just *use* AI tools — I run a **multi-AI development harness** where *
 
 | The system I build | The infra I run it on |
 |---|---|
-| **Owner-approval autonomy** — 5-level progressive-autonomy model; the AI proposes, the owner approves *(auto-graduation specced next, not yet built)* | **`relay-infra`** — a **~27-container Docker Compose spine**: Traefik · Prometheus · Grafana · Loki · LiteLLM · Langfuse · Qdrant · n8n · Ollama (GPU) |
-| **Model gateway** — **LiteLLM** routing **15 cloud models across 7 providers** behind one API *(+ optional local Ollama)* | **`CouncilVerse`** — open-source multi-agent council engine, published to public npm ([@relaylaunch](https://www.npmjs.com/org/relaylaunch)) |
+| **Owner-approval autonomy**: 5-level progressive-autonomy model; the AI proposes, the owner approves *(auto-graduation specced next, not yet built)* | **`relay-infra`**: a **~27-container Docker Compose spine**: Traefik · Prometheus · Grafana · Loki · LiteLLM · Langfuse · Qdrant · n8n · Ollama (GPU) |
+| **Model gateway**: **LiteLLM** routing **15 cloud models across 7 providers** behind one API *(+ optional local Ollama)* | **`CouncilVerse`**: open-source multi-agent council engine, published to public npm ([@relaylaunch](https://www.npmjs.com/org/relaylaunch)) |
 
 ## 🧠 What I build
 
-- **AI / LLM** *(primary)* — multi-agent orchestration · LiteLLM gateway (15 cloud models / 7 providers) · RAG on **Qdrant + pgvector** · **LLM evaluation harness** (golden datasets, regression detection, grounding / faithfulness) wired into **CI** · LLM observability (**Langfuse**) · progressive-autonomy **owner-approval gates**
-- **Forward-Deployed / Solutions** *(primary)* — multi-tenant execution engine on **Cloudflare Workers** (per-tenant **D1 / KV / R2 / Queues**, 40+ migrations) · **Supabase Postgres + Row-Level Security** · Hono · stayed in the loop through **one early unpaid field pilot** with a real service business
-- **Reliability** — AI-specific **incident-response playbook** + severity-based **escalation matrix** · **IBM 6-pillar + EU AI Act** governance mapping
-- **Cloud / DevOps** *(growing, hands-on)* — AWS (VPC, IAM, GuardDuty, S3) · Terraform (`use_lockfile` remote state, **tfsec in CI**) · Docker · GitHub Actions
+- **AI / LLM** *(primary)*: multi-agent orchestration · LiteLLM gateway (15 cloud models / 7 providers) · RAG on **Qdrant + pgvector** · **LLM evaluation harness** (golden datasets, regression detection, grounding / faithfulness) wired into **CI** · LLM observability (**Langfuse**) · progressive-autonomy **owner-approval gates**
+- **Forward-Deployed / Solutions** *(primary)*: multi-tenant execution engine on **Cloudflare Workers** (per-tenant **D1 / KV / R2 / Queues**, 40+ migrations) · **Supabase Postgres + Row-Level Security** · Hono · stayed in the loop through **one early unpaid field pilot** with a real service business
+- **Reliability**: AI-specific **incident-response playbook** + severity-based **escalation matrix** · **IBM 6-pillar + EU AI Act** governance mapping
+- **Cloud / DevOps** *(growing, hands-on)*: AWS (VPC, IAM, GuardDuty, S3) · Terraform (`use_lockfile` remote state, **tfsec in CI**) · Docker · GitHub Actions
 
 ## 🪖 Background
 
-**U.S. Marine Corps, Sergeant (E-5), 2013–2017** → a decade across enterprise operations, accounting systems, and software QA → now building production AI full-time.
+**U.S. Marine Corps, Sergeant (E-5), 2013-2017**, then a decade across enterprise operations, accounting systems, and software QA, now building production AI full-time.
 
-Reliability-first by training: I design failure modes, escalation paths, and incident response **in from the start**. Track record of owning systems end to end — a **1,000+ user Expensify rollout** (NetSuite / Namely integration, UAT, 100% adoption in 90 days) at ezCater, **50+ defects** caught and ~30% faster fix turnaround as a QA engineer at Orchestra.so, and **$11K+** in vendor overcharges recovered via root-cause analysis at Blue Matter Consulting.
+Reliability-first by training: I design failure modes, escalation paths, and incident response **in from the start**. Track record of owning systems end to end: a **1,000+ user Expensify rollout** (NetSuite / Namely integration, UAT, 100% adoption in 90 days) at ezCater, **50+ defects** caught and ~30% faster fix turnaround as a QA engineer at Orchestra.so, and **$11K+** in vendor overcharges recovered via root-cause analysis at Blue Matter Consulting.
 
 ## 📂 Public work
 
-- **[`aws-terraform-portfolio`](https://github.com/Victor-David-Medina/aws-terraform-portfolio)** — multi-AZ VPC · GuardDuty · **tfsec-in-CI** · S3 remote state with **`use_lockfile`** (S3-native locking, TF 1.10+) · **5 ADRs** + an operational runbook
-- **[CouncilVerse](https://www.npmjs.com/org/relaylaunch)** — open-source multi-agent council engine on public npm
-- **RelayLaunch** *(solo, pre-revenue)* — the multi-tenant AI operations platform the harness above builds and runs
+- **[`aws-terraform-portfolio`](https://github.com/Victor-David-Medina/aws-terraform-portfolio)**: multi-AZ VPC · GuardDuty · **tfsec-in-CI** · S3 remote state with **`use_lockfile`** (S3-native locking, TF 1.10+) · **5 ADRs** + an operational runbook
+- **[CouncilVerse](https://www.npmjs.com/org/relaylaunch)**: open-source multi-agent council engine on public npm
+- **RelayLaunch** *(solo, pre-revenue)*: the multi-tenant AI operations platform the harness above builds and runs
 
 ## 🛠️ Stack
 
@@ -95,7 +95,7 @@ Reliability-first by training: I design failure modes, escalation paths, and inc
 
 ## 📜 Certifications
 
-AWS Certified Cloud Practitioner (CLF-C02) — *in progress* &nbsp;·&nbsp; HashiCorp Terraform Associate — *in progress* &nbsp;·&nbsp; QA Engineering Certificate — *2024*
+AWS Certified Cloud Practitioner (CLF-C02), *in progress* &nbsp;·&nbsp; HashiCorp Terraform Associate, *in progress* &nbsp;·&nbsp; QA Engineering Certificate, *2024*
 
 ---
 
@@ -106,6 +106,6 @@ AWS Certified Cloud Practitioner (CLF-C02) — *in progress* &nbsp;·&nbsp; Hash
 
 <p align="center">
   <strong>Hiring for AI / Applied-AI, Forward-Deployed / Solutions, or QA Automation?</strong><br/>
-  I build production AI from the model gateway to the owner-approval gate — and stay in the loop until it works for real users.<br/><br/>
+  I build production AI from the model gateway to the owner-approval gate, and stay in the loop until it works for real users.<br/><br/>
   <a href="mailto:v.davidmedina@gmail.com"><strong>v.davidmedina@gmail.com</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/victor-david-medina"><strong>LinkedIn</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Victor-David-Medina/aws-terraform-portfolio"><strong>Proof repo</strong></a> &nbsp;·&nbsp; Remote (US) + Boston
 </p>
