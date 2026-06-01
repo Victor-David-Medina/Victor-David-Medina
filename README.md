@@ -84,7 +84,7 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 - Built the data layer behind the vector search and the signed audit trail under every agent finding.
 - Before the product, did early infrastructure and automation work — audits, modernization roadmaps — plus an early, unpaid pilot now running on Relay▶Deck.
 
-### Software QA Engineer · Orchestra.so · Remote · Mar 2024 – Mar 2025
+### Software QA Engineer (Contract) · Orchestra.so · Remote · Mar 2024 – Mar 2025
 
 - Triaged 50+ defects and cut fix turnaround ~30% via precise reproduction and client/server failure isolation (Postman, Chrome DevTools); shipped 3+ releases with zero critical bugs reaching production.
 
