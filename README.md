@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Production+AWS+%2B+Terraform+%2B+GitHub+Actions+CI%2FCD;Multi-agent+AI+SaaS.+100M%2B+vector+index.+Sole+infra+engineer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Production+AWS+%2B+Terraform+%2B+GitHub+Actions+CI%2FCD;Multi-agent+AI+SaaS.+Vector+search+at+scale.+Sole+infra+engineer." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@
 
 Multi-agent platform. Agents debate a document adversarially. The platform returns a verdict and preserves every dissent.
 
-- **100M+ vector index.** Live semantic retrieval powers every council debate.
-- **Production beta. Paying customers.** AWS stack wired and operated solo: VPC, IAM, Terraform, GitHub Actions CI/CD, CloudWatch, cryptographically signed audit trail, per-tenant cost caps.
+- **Vector search at scale.** Semantic retrieval (pgvector / Qdrant) powers every council debate.
+- **Production beta (pre-revenue), operated solo.** AWS stack: VPC, IAM, Terraform, GitHub Actions CI/CD, CloudWatch, cryptographically signed audit trail, per-tenant cost caps.
 - **Full stack, one engineer.** From subnet CIDRs to billing to on-call rotation.
 
 ### [AWS Terraform Portfolio](https://github.com/Victor-David-Medina/aws-terraform-portfolio)
@@ -48,7 +48,7 @@ Reference Terraform modules running Relay▶Deck. Public repo. Built to AWS Well
 
 ## About
 
-I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI SaaS in production beta with paying customers. VPC, IAM, Terraform, CI/CD, observability, signed audit trail, per-tenant cost caps. One engineer.
+I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI SaaS in production beta (pre-revenue). VPC, IAM, Terraform, CI/CD, observability, signed audit trail, per-tenant cost caps. One engineer.
 
 8+ years of enterprise ops at Amwell, Blue Matter, and ezCater (audit-grade documentation rigor from regulated SaaS environments). USMC veteran. I instrument systems, patch them, and carry the pager.
 
@@ -67,7 +67,7 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 | **Cloud Platform** | AWS: VPC, EC2, IAM, S3, CloudWatch, GuardDuty, Auto Scaling, NAT, Route 53, Budgets |
 | **Infrastructure as Code** | Terraform (modules, state, workspaces), HCL, `tfsec` static analysis |
 | **CI/CD & Automation** | GitHub Actions, Bash, Python (Boto3), automated lint / validate / scan |
-| **AI / Platform Infra** | Multi-agent orchestration, vector search at 100M+ scale, LLM API integration, token-cost governance |
+| **AI / Platform Infra** | Multi-agent orchestration, vector search at scale, LLM API integration, token-cost governance |
 | **Observability & Reliability** | CloudWatch alarms and dashboards, log aggregation, signed audit trails, runbooks, on-call, ADRs |
 | **Security & Compliance** | Least-privilege IAM, GuardDuty, secrets handling, security group hardening, audit-ready controls |
 
@@ -78,10 +78,10 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 ### Founder & Infrastructure Engineer · [RelayLaunch](https://www.relaylaunch.com)
 *Veteran-owned AI infrastructure company. Ships Relay▶Deck.*
 
-- Shipped Relay▶Deck (multi-agent AI SaaS) to production beta with paying customers.
+- Shipped Relay▶Deck (multi-agent AI SaaS) to production beta (pre-revenue).
 - Wired the AWS stack solo: VPC, IAM, compute, CI/CD, secrets, observability, cost governance.
 - Runs on-call. Triages incidents. Caps spend per tenant.
-- Built the data layer behind the 100M+ vector index and the signed audit trail under every agent finding.
+- Built the data layer behind the vector search and the signed audit trail under every agent finding.
 - Previously delivered infrastructure audits, modernization roadmaps, and automation engagements for business clients before pivoting to product.
 
 ### Enterprise Operations · Amwell, Blue Matter, ezCater
@@ -102,7 +102,7 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 | Certification | Status | Target |
 |---|---|---|
 | AWS Cloud Practitioner (CLF-C02) | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-2d4a7a?style=flat-square) | 2026 |
-| HashiCorp Terraform Associate (003) | ![Planned](https://img.shields.io/badge/Status-Planned-58A6FF?style=flat-square) | 2026 |
+| HashiCorp Terraform Associate (004) | ![Planned](https://img.shields.io/badge/Status-Planned-58A6FF?style=flat-square) | 2026 |
 | AWS Solutions Architect Associate (SAA-C03) | ![Planned](https://img.shields.io/badge/Status-Planned-2d4a7a?style=flat-square) | 2026–2027 |
 
 ---
@@ -110,7 +110,7 @@ I'm David. I solo-built and run the AWS infrastructure behind a multi-agent AI S
 ## Currently Working On
 
 - Multi-agent orchestration patterns. Agent observability. Debate routing. Dissent capture.
-- Vector / semantic search at 100M+ scale. Retrieval performance tuning.
+- Vector / semantic search at scale. Retrieval performance tuning.
 - Event-driven AWS: Lambda, queues, async pipelines for AI workloads.
 - LLM cost optimization: token budgeting, response caching, model routing across price tiers.
 
@@ -149,7 +149,7 @@ Most Relay▶Deck infrastructure lives in private repos. The public face of the 
 
 <p align="center">
   <strong>Hiring for Cloud, DevOps, Platform, or SRE?</strong><br/>
-  I run production AWS for paying AI customers solo. Imagine what I do with a team.<br/>
+  I run production AWS for a multi-agent AI platform solo. Imagine what I do with a team.<br/>
   <em>Remote or hybrid. Boston, MA.</em>
 </p>
 
