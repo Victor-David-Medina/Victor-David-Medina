@@ -47,7 +47,7 @@
 
 ## 🤖 The differentiator: four AI agents, one orchestrated workflow
 
-I don't just *use* AI tools. I run a **multi-AI development harness** where **Claude Code + GitHub Copilot + Gemini CLI + Codex** work the same sprint in parallel, hand off through shared docs, and pass a **trust-but-verify** gate before anything merges. My day-to-day dev process *is* a working demo of orchestrating AI in production.
+I don't just *use* AI tools. I run a **multi-AI development harness** where **Claude Code + GitHub Copilot + Gemini CLI + Codex** work the same sprint in parallel, hand off through shared docs, and pass a **verify** step before anything merges. My day-to-day dev process *is* a working demo of orchestrating AI coding agents.
 
 ```text
                 ┌──────────────────────────────────────────────────────┐
@@ -55,12 +55,12 @@ I don't just *use* AI tools. I run a **multi-AI development harness** where **Cl
                 └───────┬────────────┬───────────────┬───────────┬──────┘
                         └────────────┴──── shared handoff docs ───┴──────┐
                                                                          ▼
-                                          trust-but-verify gate  →  merge / ship
+                                          verify gate  →  merge / ship
 ```
 
 | The system I build | The infra I run it on |
 |---|---|
-| **Owner-approval autonomy**: 5-level progressive-autonomy model; the AI proposes, the owner approves *(auto-graduation specced next, not yet built)* | **`relay-infra`**: a **~27-container Docker Compose spine**: Traefik · Prometheus · Grafana · Loki · LiteLLM · Langfuse · Qdrant · n8n · Ollama (GPU) |
+| **Owner-approval autonomy**: the AI proposes, the owner approves before anything runs *(a confidence-based graduation model is specced, not yet built)* | **`relay-infra`**: a local Docker spine: LiteLLM · Langfuse · Qdrant · n8n · Ollama (GPU), with Prometheus · Grafana · Loki observability |
 | **Model gateway**: **LiteLLM** routing **15 cloud models across 7 providers** behind one API *(+ optional local Ollama)* | **`CouncilVerse`**: open-source multi-agent council engine, published to public npm ([@relaylaunch](https://www.npmjs.com/org/relaylaunch)) |
 
 ## 🧠 What I build
@@ -72,7 +72,7 @@ I don't just *use* AI tools. I run a **multi-AI development harness** where **Cl
 
 ## 🪖 Background
 
-**U.S. Marine Corps, Sergeant (E-5), 2013-2017**, then a decade across enterprise operations, accounting systems, and software QA, now building production AI full-time.
+**U.S. Marine Corps, Sergeant (E-5), 2013-2017**, then a decade across enterprise operations, accounting systems, and software QA, now building AI systems full-time (pre-revenue).
 
 Reliability-first by training: I design failure modes, escalation paths, and incident response **in from the start**. Track record of owning systems end to end: a **1,000+ user Expensify rollout** (NetSuite / Namely integration, UAT, 100% adoption in 90 days) at ezCater, **50+ defects** caught and ~30% faster fix turnaround as a QA engineer at Orchestra.so, and **$11K+** in vendor overcharges recovered via root-cause analysis at Blue Matter Consulting.
 
@@ -99,7 +99,7 @@ Reliability-first by training: I design failure modes, escalation paths, and inc
 
 ## 📜 Certifications
 
-AWS Certified Cloud Practitioner (CLF-C02), *in progress* &nbsp;·&nbsp; HashiCorp Terraform Associate, *in progress* &nbsp;·&nbsp; QA Engineering Certificate, *2024*
+QA Engineering Certificate (Careerist), *2024*
 
 ---
 
@@ -110,7 +110,7 @@ AWS Certified Cloud Practitioner (CLF-C02), *in progress* &nbsp;·&nbsp; HashiCo
 
 <p align="center">
   <strong>Hiring for AI / Applied-AI, Forward-Deployed / Solutions, or QA Automation?</strong><br/>
-  I build production AI from the model gateway to the owner-approval gate, and stay in the loop until it works for real users.<br/><br/>
+  I build AI from the model gateway to the owner-approval gate, and stay in the loop until it works for real users.<br/><br/>
   <a href="mailto:v.davidmedina@gmail.com"><strong>v.davidmedina@gmail.com</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/victor-david-medina"><strong>LinkedIn</strong></a> &nbsp;·&nbsp; <a href="https://github.com/Victor-David-Medina/aws-terraform-portfolio"><strong>Proof repo</strong></a> &nbsp;·&nbsp; Remote (US) + Boston
 </p>
 
