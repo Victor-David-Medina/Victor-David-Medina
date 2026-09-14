@@ -4,7 +4,7 @@
 
 I build AI systems that propose actions and wait for owner approval before they run: multi-agent orchestration, LLM gateways, RAG, and evaluation harnesses gated in CI.
 
-Open to AI Engineer, Forward-Deployed / Solutions, and Systems / QA roles, contract or full-time. Watertown, MA, remote (US) or Boston metro, v.davidmedina@gmail.com.
+Open to AI Engineer, Forward-Deployed, and Applied AI roles, contract or full-time. Watertown, MA, remote (US) or Boston metro, v.davidmedina@gmail.com.
 
 ## Start here
 
@@ -44,3 +44,4 @@ U.S. Marine Corps veteran (2013-2017), then operations and QA, now AI engineerin
 
 - Email: v.davidmedina@gmail.com
 - LinkedIn: https://www.linkedin.com/in/victor-david-medina
+- Website: https://relaylaunch.com (the production system behind the work above)
