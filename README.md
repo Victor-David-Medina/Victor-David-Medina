@@ -1,10 +1,14 @@
+![Victor David Medina — applied AI systems](ai-harness-banner.svg)
+
 # Victor David Medina
 
 **AI / Forward-Deployed Engineer | USMC veteran**
 
+![Open to work](https://img.shields.io/badge/Open_to_work-AI_Engineer-FDE-Applied_AI-2ea043) ![Watertown MA · Remote US](https://img.shields.io/badge/Watertown_MA-Remote_US_or_Boston-0D9488)
+
 I build AI systems that propose actions and wait for owner approval before they run: multi-agent orchestration, LLM gateways, RAG, and evaluation harnesses gated in CI.
 
-Open to AI Engineer, Forward-Deployed, and Applied AI roles, contract or full-time. Watertown, MA, remote (US) or Boston metro, v.davidmedina@gmail.com.
+2.5 years building software and AI systems. Open to AI Engineer, Forward-Deployed, and Applied AI roles, contract or full-time. Watertown, MA, remote (US) or Boston metro. v.davidmedina@gmail.com
 
 ## Start here
 
@@ -22,9 +26,9 @@ Open to AI Engineer, Forward-Deployed, and Applied AI roles, contract or full-ti
 
 ## Current project
 
-I am building a deployed AI operations system for small service businesses: a Cloudflare Workers execution engine whose architecture supports per-tenant isolation, a LiteLLM gateway with RAG and a CI-gated eval harness, and an autonomy design where the AI prepares each action and the owner approves it before anything runs.
+Building a deployed AI operations system for small service businesses: a Cloudflare Workers execution engine with per-tenant isolation, a LiteLLM gateway with RAG and a CI-gated eval harness, and owner-approved autonomy. The AI prepares each action; the owner approves it before anything runs.
 
-It is solo and pre-revenue, dogfooded on my own company plus two early unpaid pilots, a spa and an auto shop. Any impact figure it produces is a projected target, not a measured result, until a pilot measures one.
+Solo and pre-revenue, dogfooded on my own company plus two early unpaid pilots, a spa and an auto shop. Any impact figure is a projected target, not a measured result, until a pilot measures one.
 
 ## Track record
 
